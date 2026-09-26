@@ -1,3 +1,3 @@
 # One app-ads.txt covers ALL your apps in the same AdMob account. Keep this file at the top of the site.
 # Replace the line below with the exact line AdMob gives you (AdMob > Apps > View all apps > app-ads.txt).
-google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+google.com, pub-7916852340147238, DIRECT, f08c47fec0942fa0
